@@ -13,4 +13,4 @@ Starter notebook for downloading and saving oec data for hs and sitc codes, incl
 - make a pull request
 
 Example plot
-[Tile plot for export volume for 16 products](https://github.com/WoutersResearchGroup/oec_data_preparation/blob/master/tile_plot.png)
+![Tile plot for export volume for 16 products](https://github.com/WoutersResearchGroup/oec_data_preparation/blob/master/tile_plot.png)
